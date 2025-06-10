@@ -1,3 +1,11 @@
 {
-    "admin": []
+    "admin": [
+        {
+            "username": "vijay",
+            "password": "$2y$12$J/m9NDo97u3zLp1m6XaJ0.My6PcBecvIkt.T/06LXIPvJPggz97m2",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-10",
+            "device_id": ""
+        }
+    ]
 }
