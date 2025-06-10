@@ -1,18 +1,1 @@
-{
-    "admin": [
-        {
-            "username": "1",
-            "password": "$2y$12$D1BE6a//A0OqJoAnchu5F.JQ75WotdMfihW6BRvDGJ0KNkIm1bN5.",
-            "subscription": "aimkillapk",
-            "expiry": "2025-07-10",
-            "device_id": "11cdf472a3f4e0e0"
-        },
-        {
-            "username": "11",
-            "password": "$2y$12$6YiNJUz4b/U65iCji3a6XeuqhIFV5jzZ2TwaD9d6345NVuhx3bDlq",
-            "subscription": "aimkillapk",
-            "expiry": "2025-07-10",
-            "device_id": ""
-        }
-    ]
-}
+11cdf472a3f4e0e0:jod:1:2099-12-01-00-00-00:jod
